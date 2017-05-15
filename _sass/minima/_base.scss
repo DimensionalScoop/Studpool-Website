@@ -213,3 +213,17 @@ pre {
     padding-top: 5px;
   }
 }
+
+
+
+dl > dt {
+  font-weight: bold;
+}
+
+dl > dd {
+  margin-left: 3em;
+}
+
+dd {
+  margin-bottom: 0.5em;
+}
