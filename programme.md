@@ -15,16 +15,14 @@ title: Programme
 ### Editors & IDEs
 - Sublime Text
 - Atom
-- Lime Text
 - Brackets
-- Light Table
 
 - Netbeans
 - Eclipse
 
-## Programme, die bald installiert werden
+<!--## Programme, die bald installiert werden
 - Mapel
 - Truee
 
-<!--## Programme anfordern
+## Programme anfordern
 !-->

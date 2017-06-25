@@ -8,7 +8,8 @@ Der Server ist im Internet über SSH erreichbar; ihr könnt euch von einem belie
 Unter Linux und Mac im Terminal:  
 `$ ssh -Y <user>@stud.physik.tu-dortmund.de`  
 
-Unter Windows benötigt man einen SSH-Client, etwa [PuTTY](http://www.putty.org/). Mit diesen Einstellungen kann man sich dann verbinden: ![](/assets/putty.png)  
+Unter Windows benötigt man einen SSH-Client, etwa [PuTTY](http://www.putty.org/). Mit diesen Einstellungen kann man sich dann verbinden:  
+![](/assets/putty.png)  
 
 ### Screen
 Hilfreich, etwa wenn man lange Berechnungen durchführen will, ist `screen`.
